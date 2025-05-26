@@ -1,0 +1,22 @@
+{
+  "name": "com.jiaozi158.unity-volumetric-clouds-urp",
+  "displayName": "Unity Volumetric Clouds URP",
+  "version": "1.0.0",
+  "unity": "2022.2",
+  "unityRelease": "19f1",
+  "description": "Volumetric Clouds for Unity URP (Universal Render Pipeline). The rendering is ported from HDRP.\n\nPlease read the Documentation and Requirements before using this repository.",
+  "documentationUrl": "https://github.com/jiaozi158/UnityVolumetricCloudsURP/blob/main/Documentation~/Documentation.md",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/jiaozi158/UnityVolumetricCloudsURP/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/jiaozi158/UnityVolumetricCloudsURP/blob/main/CHANGELOG.md",
+  "author": "Jiaozi158",
+  "keywords": [
+    "unity",
+    "rendering",
+    "graphics",
+    "sky"
+  ],
+  "dependencies": {
+    "com.jiaozi158.unity-physically-based-sky-urp": "https://github.com/jiaozi158/UnityPhysicallyBasedSkyURP.git"
+  }
+}
