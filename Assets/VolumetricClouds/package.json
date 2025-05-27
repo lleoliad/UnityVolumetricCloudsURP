@@ -17,6 +17,6 @@
     "sky"
   ],
   "dependencies": {
-    "com.jiaozi158.unity-physically-based-sky-urp": "git://github.com/jiaozi158/UnityPhysicallyBasedSkyURP.git"
+    "com.jiaozi158.unity-physically-based-sky-urp": "git+https://github.com/jiaozi158/UnityPhysicallyBasedSkyURP.git"
   }
 }
